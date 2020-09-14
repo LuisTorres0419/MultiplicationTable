@@ -1,6 +1,6 @@
 ﻿'Luis Torres
 'RCET0265
-'Fall 2020
+'spring 2020
 'Multiplication Table
 'https://github.com/LuisTorres0419/MultiplicationTable.git
 
